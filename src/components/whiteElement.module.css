@@ -1,0 +1,25 @@
+.White-element {
+  width: 560px;
+  height: 147px;
+  border-radius: 76px 76px 0px 0px;
+  background-color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.white-elemnt-paragraf {
+  font-size: 14px;
+  letter-spacing: 1px;
+  line-height: 21px;
+  color: #000000;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+  width: 525px;
+  text-align: center;
+  padding: 30px 20px 0px 20px;
+}
+
+.White-element-display {
+  margin-left: 840px;
+  position: relative;
+  bottom: 217px;
+}

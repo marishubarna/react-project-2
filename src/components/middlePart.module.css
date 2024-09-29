@@ -1,0 +1,26 @@
+.Header-middle-part {
+  font-size: 100px;
+  width: 596px;
+  letter-spacing: 8px;
+
+  color: #ffffff;
+  font-weight: 700;
+  font-family: "Poppins", sans-serif;
+}
+
+.tetx-images-display-middle-part {
+  display: flex;
+  justify-content: space-between;
+  margin: 0px 0px 0px 0px;
+}
+
+.Paragraf-middle-part {
+  width: 500px;
+  height: 172px;
+  font-size: 16px;
+  letter-spacing: 1px;
+  line-height: 36px;
+  color: #ffffff;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+}

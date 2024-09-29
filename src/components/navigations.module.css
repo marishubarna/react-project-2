@@ -1,0 +1,40 @@
+body {
+  background: linear-gradient(
+    135deg,
+    #61065c,
+    #3b0238,
+    #180017,
+    #010001,
+    #000001,
+    #0c0117,
+    #240339,
+    #3e095e
+  ); /* made at https://learnui.design/tools/gradient-generator.html */
+  background-repeat: no-repeat;
+  align-items: center;
+  margin: 0;
+  padding: 0px 100px 0px 100px;
+}
+
+.menu-items li {
+  font-size: 29px;
+  letter-spacing: 0px;
+  color: #ffffff;
+  font-weight: 500;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  list-style-type: none;
+  margin: 0px 20px 0px 20px;
+}
+
+.menu-items {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.menu-items-display {
+  display: flex;
+  justify-content: space-between;
+  place-items: center;
+  margin: 0px 0px 50px 0px;
+}

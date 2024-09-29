@@ -1,6 +1,5 @@
 import React from "react";
 import Images2 from "../images/Images2.png";
-import "../index.css";
 const MiddlePart = () => {
   return (
     <div>

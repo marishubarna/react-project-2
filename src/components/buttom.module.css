@@ -1,0 +1,48 @@
+.button-1,
+.sing-up,
+.link-button-1 {
+  width: 130px;
+  height: 50px;
+  border-radius: 51px;
+  background-color: #f1f1f1;
+  font-size: 19px;
+  letter-spacing: 1px;
+  line-height: 36px;
+  color: #f98112;
+  font-weight: 700;
+  font-family: "Poppins", sans-serif;
+  text-decoration: none;
+}
+
+.button-2,
+.play {
+  display: flex;
+  justify-content: center;
+  place-items: center;
+  width: 130px;
+  height: 50px;
+  border-radius: 51px;
+  background-image: linear-gradient(
+    180deg,
+    rgba(249, 203, 34, 0.996078431372549) 0%,
+    rgba(247, 54, 0, 0.9999999999999999) 100%
+  );
+  margin-left: 20px;
+}
+
+.link-button-2 {
+  font-size: 19px;
+  letter-spacing: 1px;
+  line-height: 42px;
+  color: #ffffff;
+  font-weight: 700;
+  font-family: "Poppins", sans-serif;
+  text-decoration: none;
+}
+
+.Button-display {
+  display: flex;
+  justify-content: left;
+  position: relative;
+  bottom: 150px;
+}
