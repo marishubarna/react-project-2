@@ -1,8 +1,8 @@
 import React from "react";
-import "../index.css";
 import Logo from "../images/Logo.png";
 import MiddlePart from "./MiddlePart";
 import ButtomsPart from "./ButtomsPart";
+import styles from "../components/navigations.module.css";
 import WhiteElement from "../components/WhiteElement";
 
 <style>
@@ -14,14 +14,14 @@ const navigation = ["Home", "About", "Gallery", "Menu", "Contact"];
 const NavigationMenu = () => {
   return (
     <div>
-      <div className="menu-items-display">
+      <div className={styles.menuItemsDisplay}>
         <div className="Logo-display">
           <div className="logo-images">
             <img src={Logo} height={45} alt="" />
           </div>
         </div>
 
-        <ul className="menu-items">
+        <ul className={styles.menuItems}>
           {navigation.map((item) => (
             <li>{item}</li>
           ))}

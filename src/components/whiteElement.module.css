@@ -1,4 +1,4 @@
-.White-element {
+.WhiteElement {
   width: 560px;
   height: 147px;
   border-radius: 76px 76px 0px 0px;
@@ -6,7 +6,7 @@
   margin-bottom: 20px;
 }
 
-.white-elemnt-paragraf {
+.whiteElemntParagraf {
   font-size: 14px;
   letter-spacing: 1px;
   line-height: 21px;
@@ -18,7 +18,7 @@
   padding: 30px 20px 0px 20px;
 }
 
-.White-element-display {
+.WhiteElementDisplay {
   margin-left: 840px;
   position: relative;
   bottom: 217px;
